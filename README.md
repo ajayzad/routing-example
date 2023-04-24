@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Project Summary
+This is the simple application in angular which explains the use of routing in Angular. It covers routing and navigation within the angular components with help of AppRouting Module. It also covers the data passing and data retriveing through routing. 
